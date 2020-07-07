@@ -1,0 +1,4 @@
+baseURL = "http://siahnan.com/"
+languageCode = "en-us"
+title = "New Site"
+theme = "meghna-hugo"
