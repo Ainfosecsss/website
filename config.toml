@@ -1,10 +1,3 @@
-baseURL = "http://siahnan.com/"
-languageCode = "en-us"
-title = "New Site"
-theme = "meghna-hugo"
-
-
-
 ################################# Default configuration ###################
 baseURL = "https://sihanan.com"
 title = "Sihanan"
